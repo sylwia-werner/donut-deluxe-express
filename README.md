@@ -1,2 +1,2 @@
 # donut-deluxe-express
-E-commerce webshop built with Strapi headless CMS, express.js and NextJS
+E-commerce webshop built with Strapi headless CMS, Express.js and NextJS
